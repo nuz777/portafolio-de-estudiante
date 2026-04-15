@@ -11,7 +11,7 @@ body {
     font-family: 'Inter', sans-serif;
     background: 
         linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)),
-        url("/public/img/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner\ \(1\)\ \(1\).jpg") no-repeat;
+        url("../../public/img/abstract-luxury-gradient-blue-background.jpg.jpg") no-repeat;
     
     background-size: cover;
     background-position: center;
