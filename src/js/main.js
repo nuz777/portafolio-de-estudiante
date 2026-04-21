@@ -5,7 +5,7 @@ window.addEventListener("DOMContentLoaded", () => {
   // ✍️ TYPING EFFECT
   // =========================
   const frases = [
-    "Soy Aprendiz de desarrollo de software",
+    "Aprendiz de desarrollo de software",
     "Trabajo con Python",
     "Construyo soluciones funcionales",
   ];

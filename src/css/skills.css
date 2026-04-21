@@ -25,6 +25,19 @@
   margin-bottom: 10px;
 }
 
+/* Colores específicos */
+.fa-python {
+  color: #3776AB;
+}
+
+.fa-html5 {
+  color: #E34F26;
+}
+
+.fa-js {
+  color: #F7DF1E;
+}
+
 .card2:hover {
   transform: translateY(-10px);
   box-shadow: 0 10px 20px rgba(0,0,0,0.3);

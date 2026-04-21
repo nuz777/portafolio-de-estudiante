@@ -33,6 +33,7 @@ h2 {
 }
 
 #typing {
-    color: var(--color-muted);
-    margin: 10px 0;
+  display: inline-block;
+  min-height: 1.5em;
+  min-width: 300px; /* evita cambios de tamaño */
 }
