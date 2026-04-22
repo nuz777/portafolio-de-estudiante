@@ -71,7 +71,7 @@ window.addEventListener("DOMContentLoaded", () => {
   // BOTÓN CAMBIAR TEXTO
   // =========================
   const btnTexto = document.createElement("button");
-btnTexto.textContent = "Change description";
+btnTexto.textContent = "Cambiar descripcion";
 
 const info = document.querySelector(".info p");
 
@@ -100,7 +100,7 @@ btnTexto.addEventListener("click", () => {
   //  TOGGLE PROYECTOS
   // =========================
   const btnToggle = document.createElement("button");
-  btnToggle.textContent = "Show / Hide Projects";
+  btnToggle.textContent = "Ver / ocultar proyectos";
 
   const proyectos = document.getElementById("proyectos");
 
