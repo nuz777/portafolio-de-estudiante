@@ -1,7 +1,7 @@
 
 /* MAIN */
 main {
-    max-width: 1000px;
+    max-width: 1100px;
     margin: 0 auto;
     padding: 120px 20px 40px;
 }
@@ -18,22 +18,25 @@ h2 {
 
 /* SOBRE MI */
 .sobre-mi {
-    display: flex;
+    display: inline-flex;
     align-items: center;
-    gap: 40px;
+    gap: 70px;
 }
 
 .perfil-img {
-    width: 160px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
+    padding-left: 2px;
 }
 
 .info {
-    max-width: 500px;
+    max-width: 700px;
+    padding: 20px;
 }
 
 #typing {
   display: inline-block;
-  min-height: 1.5em;
-  min-width: 300px; /* evita cambios de tamañooooooo */
+  min-height: 1.9em;
+  min-width: 300px; /* evita cambios de tamaño */
 }
