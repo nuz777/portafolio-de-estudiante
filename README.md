@@ -4,7 +4,7 @@ Este proyecto es un **portafolio personal web** desarrollado con HTML, CSS y Jav
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 El portafolio presenta una interfaz moderna y responsiva que incluye:
 
@@ -26,7 +26,7 @@ El portafolio presenta una interfaz moderna y responsiva que incluye:
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
  portafolio
 ┣ 📂 public/img
@@ -43,9 +43,9 @@ El portafolio presenta una interfaz moderna y responsiva que incluye:
 
 ---
 
-## 🌐 Páginas del proyecto
+##  Páginas del proyecto
 
-### 🏠 index.html
+###  index.html
 
 Página principal del portafolio:
 
