@@ -38,7 +38,6 @@ button:nth-of-type(2) {
 .btn-volver {
   background: linear-gradient(135deg,  #3e3e3e, #c1ccd100);
   color: #ffffff;
-  border: none;
   padding: 10px 18px;
   border-radius: 4px;
   font-weight: 600;
@@ -48,7 +47,7 @@ button:nth-of-type(2) {
 
 .btn-volver:hover {
      transform: translateY(-2px);
-  background: linear-gradient(135deg, #4e5153, #c1ccd1);
+  background: linear-gradient(135deg, #4e5153, #000000);
 }
 
 

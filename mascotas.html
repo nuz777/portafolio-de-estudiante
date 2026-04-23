@@ -8,14 +8,19 @@
     <link rel="stylesheet" href="src/css/index.css" />
   </head>
   <body>
-    <header>
-      <h1>Mascotas</h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Inicio</a></li>
+ <nav class="navbar">
+        <h1>Mascotas </h1>
+        <!-- Checkbox oculto para la lógica del menú -->
+        <input type="checkbox" id="menu-toggler" class="menu-toggler">
+        <label for="menu-toggler" class="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </label>
+        <ul class="nav-links">
+          <li><a href="./index.html">Inicio</a></li>
         </ul>
-      </nav>
-    </header>
+    </nav>
 
     <main>
       <section class="mascotas-grid">
@@ -65,11 +70,8 @@
 
     <script src="src/js/mascotas.js"></script>
 
-
-
-      <video autoplay muted loop class="bg-video">
-      <source src="/public/videos/fondo.mp4" type="video/mp4">
+     <video autoplay muted loop class="bg-video">
+      <source src="/public/videos/videopro.mp4" type="video/mp4">
      </video>
-  
   </body>
 </html>

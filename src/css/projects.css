@@ -25,6 +25,9 @@
     transform: translateY(-3px);
 }
 
+
+
+/* Icono con fondo */
 .proyecto-icon {
     font-size: 1.5rem;
     color: #aaa;
@@ -55,7 +58,7 @@
 
 .proyecto-info p {
     font-size: 0.8rem;
-    color: #888;
+    color:var(--color-white);
     margin: 0;
     line-height: 1.4;
 }

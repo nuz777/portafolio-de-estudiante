@@ -29,16 +29,29 @@ El portafolio presenta una interfaz moderna y responsiva que incluye:
 ## Estructura del proyecto
 
  portafolio
+
 ┣ 📂 public/img
+
 ┣ 📂 src
+
 ┃ ┣ 📂 css
-┃ ┃ ┗ style.css
+
+┃ ┃ ┗ index.css
+
+┃ ┃ ┗ + .css 
+
 ┃ ┗ 📂 js
+
 ┃ ┃ ┣ main.js
+
 ┃ ┃ ┗ mascotas.js
+
 ┣ index.html
+
 ┣ mascotas.html
+
 ┗ README.md
+
 
 
 ---
@@ -147,6 +160,8 @@ Ivan Mejía
 Desarrollador de software Jr
 
 GitHub: https://github.com/nuz777
-📄 Licencia
 
-Este proyecto es de uso personal y educativo. Puedes adaptarlo libremente.
+Proyecto desplegeado: https://nuz777.github.io/index.html
+
+Este proyecto es de uso personal y educativo. Puedes adaptarlo libremente. ^_^
+

@@ -44,6 +44,7 @@ window.addEventListener("DOMContentLoaded", () => {
   typing();
 
   // =========================
+  //  FORMULARIO DE CONTACTO
   // =========================
   const form = document.getElementById("contacto-form");
   const mensaje = document.getElementById("mensaje-exito");
@@ -65,7 +66,11 @@ window.addEventListener("DOMContentLoaded", () => {
   // =========================
   //  BIENVENIDA
   // =========================
+
+  if (!localStorage.getItem("bienvenidaMostrada")) {
   alert("Hola, este es mi portafolio.");
+  localStorage.setItem("bienvenidaMostrada", "true");
+}
 
   // =========================
   // BOTÓN CAMBIAR TEXTO

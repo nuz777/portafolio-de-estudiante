@@ -9,7 +9,7 @@
     align-items: center;
     background: rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(10px);
-    color: white;
+    color: var(--color-white);
     padding: 1rem;
     z-index: 1000;
 }
@@ -30,7 +30,7 @@
 }
 
 .nav-links li a:hover {
-    color: white;
+    color: var(--color-white);
 }
 
 /* HAMBURGER */
@@ -48,7 +48,7 @@
     display: block;
     width: 25px;
     height: 3px;
-    background: white;
+    background: var(--color-white);
     margin: 5px 0;
     transition: 0.3s;
 }

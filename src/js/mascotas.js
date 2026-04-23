@@ -1,3 +1,6 @@
+
+/* Animación de fade-in para mascotas */
+
 const elementos = document.querySelectorAll(".fade-in");
 
       const observer = new IntersectionObserver(
