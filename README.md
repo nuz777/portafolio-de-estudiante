@@ -28,29 +28,34 @@ El portafolio presenta una interfaz moderna y responsiva que incluye:
 
 ## Estructura del proyecto
 
- portafolio
-
-┣ 📂 public/img
-
-┣ 📂 src
-
-┃ ┣ 📂 css
-
-┃ ┃ ┗ index.css
-
-┃ ┃ ┗ + .css 
-
-┃ ┗ 📂 js
-
-┃ ┃ ┣ main.js
-
-┃ ┃ ┗ mascotas.js
-
-┣ index.html
-
-┣ mascotas.html
-
-┗ README.md
+```
+📁 portafolio/
+├── 📁 assets/
+│   ├── 📁 css/
+│   │   ├── 📄 buttons.css
+│   │   ├── 📄 footer.css
+│   │   ├── 📄 form.css
+│   │   ├── 📄 header.css
+│   │   ├── 📄 index.css
+│   │   ├── 📄 pets.css
+│   │   ├── 📄 projects.css
+│   │   ├── 📄 responsive.css
+│   │   ├── 📄 sections.css
+│   │   ├── 📄 skills.css
+│   │   └── 📄 styles.css
+│   ├── 📁 js/
+│   │   ├── 📄 main.js
+│   │   └── 📄 mascotas.js
+│   ├── 📁 img/
+│   ├── 📁 videos/
+│   ├── 📁 audio/
+│   ├── 📁 docs/
+│   └── 📁 icons/
+├── 📄 index.html
+├── 📄 mascotas.html
+├── 📄 README.md
+└── 📄 LICENSE
+```
 
 
 
